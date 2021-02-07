@@ -124,3 +124,6 @@ db4/
 
 # clang-check
 *.plist
+
+#Ignore iCloud Files
+*.icloud
